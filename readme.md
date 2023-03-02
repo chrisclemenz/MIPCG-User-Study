@@ -19,9 +19,11 @@ Below you will find a short description of the tool and how to use it.
 
 ## **Description**:
 MIPCG Assistant is a custom Editor for the Unity game engine. It is made to help you create levels on 2D grids via AI assistance. The AI agent will learn from the grid cell neighborhoods you create inside the level. You can open it from the “**Window**” tab in the top toolbar with the “**MIPCG Editor**” button. 
+
 <p align="center">
-<img src="./Screenshots/MIPCGEditor.png" width = 75% height = 75%>
+<img src="./Screenshots/MIPCGEditor.PNG" width = 75% height = 75%>
 </p>
+
 In the left panel, you can see the list of available assets for the current scene. Below this list, you will see a preview image of the selected asset for better asset recognition. The bottom right panel displays the current level grid. Here, you will see the assets you add to the level and also the part that gets auto-completed by the AI assistant. To make it more obvious which elements are added by the AI the icons will be displayed with a different background color. You can always hide the elements added by the AI by pressing the Space bar when the custom editor window is focused. Pressing the space bar again will make them appear again.
 
 In the top bar, you can choose from three different editing tools. You use the selected one by clicking on the grid. 
