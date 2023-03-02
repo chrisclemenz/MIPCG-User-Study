@@ -18,7 +18,7 @@ The recommended workflow is the following:
 Below you will find a short description of the tool and how to use it.
 
 ## **Description**:
-MIPCG Assistant is a custom Editor for the Unity game engine. It is made to help you create levels on 2D grids via AI assistance. The AI agent will learn from the grid cell neighborhoods you create inside the level. You can open it from the “**Window**” tab in the top toolbar with the “**MIPCG Editor**” button. 
+MIPCG Assistant is a custom Editor for the Unity game engine. It is made to help you create levels on 2D grids via AI assistance. The AI agent will learn from the grid cell neighborhoods you create inside the level. You can open the custom editor from the “**Window**” tab in the top toolbar with the “**MIPCG Editor**” button. 
 
 <p align="center">
 <img src="./Screenshots/MIPCGEditor.PNG" width = 75% height = 75%>
