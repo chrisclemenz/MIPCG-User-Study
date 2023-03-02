@@ -52,7 +52,7 @@ The Editor is connected to two Components inside the scene hierarchy. The “MIP
 The most important settings for the designer are the three checkbox toggles found on the Settings Component: 
 
 * “**Use Smoothing**” – If checked, the AI will try to offer more variety, meaning that rare assets will appear more often. Note that this will create more random-looking auto-completion.
-* “**Use Fallback**” – If checked, the AI will offer you auto-completions, even if there are no fitting assets for a given neighborhood. Note that disabling fallback will result in some cases the AI will fail to fill in the level, but you will only get neighborhoods that you taught the AI.
+* “**Use Fallback**” – If checked, the AI will offer you auto-completions, even if there are no fitting assets for a given neighborhood. Note that disabling fallback will result in some cases where the AI will fail to fill in the level. If unchecked, auto-completion will only use neighborhoods that you taught the AI.
 * “**Use Diagonal Neighborhoods**” – if checked, the AI will use diagonal neighborhoods as well as straight ones. In scenarios where there are mostly horizontal or vertical assets this can improve AI results. 
 
 You can hide the green grid inside the scene view with the "Gizmos" toggle.
