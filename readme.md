@@ -1,6 +1,6 @@
 ## **Instructions**:
 
-For my master’s thesis, I created this mixed-initiative level generation tool for the Unity game engine. It is designed to assist level designers, by learning from their designs and offering them auto-completions of empty level space. 
+For my master’s thesis, I created a mixed-initiative level generation tool for the Unity game engine. It is designed to assist level designers, by learning from their designs and offering them auto-completions of empty level space. 
 
 I would like you to test this tool in the following user study. You will receive the tool and two Unity scenes, the “**Underground Dungeon**“ and “**Forest Temple**”. These scenes are already set up for you. Each scene has its own asset pool made up of Unity prefabs. The underlying game concept is the same for both scenes. The player will need to collect treasure chests, kill monsters and avoid traps, in a dungeon crawler setting. You can find the prepared scenes in the “**Assets/Scenes**” folder.
 
