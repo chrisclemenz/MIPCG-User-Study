@@ -15,7 +15,7 @@ The recommended workflow is the following:
 * Press the “Save AI” and “Save Level” buttons.
 * Clear the board with the “Clear Board” button and start your next level. You don’t need to create a new Unity scene to start with a new level.
 
-If you are finished with your the first scene open the other one and repeat the workflow. 
+If you are finished with your first scene open the other one and repeat the workflow. 
 
 Below you will find a short description of the tool and how to use it.
 
