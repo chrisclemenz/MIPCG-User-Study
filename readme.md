@@ -4,7 +4,7 @@ For my master’s thesis, I created a mixed-initiative level generation tool for
 
 I would like you to test this tool in the following user study. You will receive the tool and two Unity scenes, the “**Underground Dungeon**“ and “**Forest Temple**”. These scenes are already set up for you. Each scene has its own asset pool made up of Unity prefabs. The underlying game concept is the same for both scenes. The player will need to collect treasure chests, kill monsters and avoid traps, in a dungeon crawler setting. You can find the prepared scenes in the “**Assets/Scenes**” folder.
 
-Your task is to create at least two levels for each scene, but feel free to create as many as you want. Afterward, please fill out the [survey](https://mipcg.limesurvey.net).
+Your task is to create at least two levels for each scene, but feel free to create as many as you want. Afterward, please fill out the [survey](https://mipcg.limesurvey.net) where you can also upload your level and AI model files.
 
 The only things you need to do before you can start are to install the **Unity 2021 LTS** version, download and extract this project from GitHub, open one of the scenes and open the custom level editor in the toolbar under ***Window -> MIPCG Editor***.
 
