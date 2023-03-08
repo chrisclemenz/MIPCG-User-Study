@@ -6,7 +6,7 @@ I would like you to test this tool in the following user study. You will receive
 
 Your task is to create at least two levels for each scene, but feel free to create as many as you want. Afterward, please fill out the [survey](https://mipcg.limesurvey.net) where you can also upload your level and AI model files.
 
-The only things you need to do before you can start are to install the **Unity 2021 LTS** version, download and extract this project from GitHub, open one of the scenes and open the custom level editor in the toolbar under ***Window -> MIPCG Editor***.
+The only things you need to do before you can start are to install the **Unity 2021 LTS** or a new version, download and extract this project from GitHub, open one of the scenes and open the custom level editor in the toolbar under ***Window -> MIPCG Editor***.
 
 The recommended workflow is the following:
 * Fill in the parts of the level you want to create manually.
