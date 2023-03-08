@@ -44,7 +44,7 @@ The buttons in the top right of the editor are used to save or clear the level o
 * “**Save Level**” will save the current level, including the AI auto completed parts, to a text file. These text files can be uploaded to the survey. 
 
 
-
+### **Settings**
 The Editor is connected to two Components inside the scene hierarchy. The “MIPCG_Scene Object Component” handles level size and all the game objects. The “MIPCG_Scene Settings Component” handles the Asset and AI Algorithm setting. You can locate them by selecting the “MIPCG Scene Specifics” GameObject in the scene hierarchy. After you selected the object, you can change the component settings inside the “Inspector“ panel which is usually located on the right side of the screen.
 
 <p align="center">
